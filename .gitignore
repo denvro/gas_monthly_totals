@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Distribution / Packaging (PyInstaller output)
+build/
+dist/
+*.spec
+*.egg-info/
+
+# IDE settings (Optional but recommended)
+.vscode/
+.idea/
+
+# Test runs
+output/
