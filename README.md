@@ -87,5 +87,5 @@ Suggestions / Next steps
 
 License
 
-No license specified. Add a `LICENSE` file to declare one.
+This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
